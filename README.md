@@ -8,3 +8,5 @@ Detecting face and mood by opencv2
 ```
 pip install opencv-python numpy
 ```
+
+##Credit : written  by ChatGPT
