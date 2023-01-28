@@ -11,4 +11,5 @@ Here app.py file detect face and mood of a human face---Here's an example of a p
 pip install opencv-python numpy
 ```
 
+[openCV](https://github.com/kipr/opencv)
 ##Credit : written  by ChatGPT
